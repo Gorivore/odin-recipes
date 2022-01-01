@@ -1,0 +1,37 @@
+h1, h2 {
+    text-align: center;
+    font-family: fantasy;
+    Color: brown;
+    text-shadow: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+    opacity: 0.5;
+  }
+.des {
+    color:brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-indent: 50px;
+    margin: 25%;
+    padding: 5px;
+
+
+}
+.small {
+    border-style: none;
+
+}
+ul, ol {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serifs;  
+    color: brown;
+    margin:25%
+}
+* { 
+    background-color: lightgoldenrodyellow
+}
